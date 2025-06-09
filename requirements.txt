@@ -8,3 +8,4 @@ kagglehub
 google-generativeai
 plost
 altair
+scikit-learn
